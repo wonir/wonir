@@ -4,4 +4,4 @@
 
 <img src="smarty-pants-jessie-toy-story-5.gif" width="600"/>
  
-[straw](https://ilburgers.straw.page)  [atabook](https://borgar.atabook.org/?page=1)
+[rentry](https://rentry.co/techtrio)  [atabook](https://borgar.atabook.org/?page=1)
